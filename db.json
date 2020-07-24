@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "Username": "Burak", "Password": "Burak" },
-    { "Username": "Burak2", "Password": "Burak" },
-    { "Username": "Burak3", "Password": "Burak" }
+    { "Username": "Burak", "Password": "Burak" , "state": false },
+    { "Username": "Burak2", "Password": "Burak" , "state": false},
+    { "Username": "Burak3", "Password": "Burak" , "state": false}
   ]
 }
